@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://api-ne7i.onrender.com";
+const BASE_URL = "https://api-ne7i.onrender.com/";
 
 
 
